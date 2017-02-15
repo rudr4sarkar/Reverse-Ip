@@ -18,7 +18,7 @@ reverseip.py --target domain.com
 reverseip.py --target domain.com --proxy 192.168.0.1:8080  
 reverseip.py --target domain.com --agent "Googlebot/2.1 (+http://www.googlebot.com/bot.html)"  
                         
-
+XSS[JaVaScriPt:alert(1)] <-- click to test
 
 Screenshot:
 
